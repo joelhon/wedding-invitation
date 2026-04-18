@@ -27,7 +27,7 @@ I have written a
 customize each of them according to your needs.
 
 # About Me
-Hello, my name is Ram. I am a Director of Software Engineering at [Mastercard](https://www.mastercard.com/). I enjoy making teeny tiny applications in
+Hello, my name is Joel. I am a Director of Software Engineering at [Mastercard](https://www.mastercard.com/). I enjoy making teeny tiny applications in
 my leisure time and this is one of them. Now that my wedding is over, I am open-sourcing the project. Hope you like it!
 
 # Sponsors
